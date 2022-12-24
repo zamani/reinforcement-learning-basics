@@ -1,4 +1,4 @@
 # reinforcement-learning-basics
-The basics of reinforcement learning is explained here.
+A notebook explaining q-learning algorithm in a simple problem.
 
 ![mountain_car](mountain_car.gif)
